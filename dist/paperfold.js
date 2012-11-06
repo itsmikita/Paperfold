@@ -150,7 +150,7 @@
 			
 			// add CSS here
 			
-			setTimeout( function() {
+			setTimeout( function() {
 				PF.selector.html( PF.content.clone() );
 				
 				console.log( PF.config );
