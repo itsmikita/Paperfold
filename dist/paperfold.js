@@ -123,7 +123,7 @@
 		/**
 		 * Open
 		 */
-		open: function() {
+		open: function() {
 			this.prepare( 'open' );
 			
 			var PF = this;
